@@ -1,2 +1,2 @@
 # Walk2Pers
-Weighted Action-Linked Knowledge to Personalized Summarization
+Beyond Markovian Drifts: Action-Biased Geometric Walks with Memory for Personalized Summarization
